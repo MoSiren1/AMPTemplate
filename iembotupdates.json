@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Downloading",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "v1.0.0.zip",
+        "UpdateSourceArgs": "ChrisChrome/iembot-2.0",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
